@@ -17,12 +17,6 @@
 **CMS & Platforms**
 `Umbraco` `Kentico` `WordPress`
 
-**Architecture & Engineering**
-`Solution Architecture` `API Design` `Microservices` `SOLID` `Design Patterns` `CI/CD` `Code Review` `Automated Testing`
-
-**AI-Assisted Development**
-`Claude Code` `GitHub Copilot` `AI Coding Agents` `LLM Integration` `AI Orchestration`
-
 ---
 
 ## 🤝 Let's Connect
