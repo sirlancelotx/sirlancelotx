@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Lance Concepcion 👋
 
-<!--
-**sirlancelotx/sirlancelotx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+**Backend**
+`C#` `.NET` `ASP.NET Core` `ASP.NET MVC` `REST APIs` `Entity Framework` `Node.js`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**
+`JavaScript` `TypeScript` `React` `Vue.js` `Angular` `HTML` `CSS` `Bootstrap`
+
+**Databases**
+`SQL Server` `PostgreSQL` `MongoDB` `MySQL`
+
+**Cloud & DevOps**
+`Microsoft Azure` `AWS` `GitHub Actions` `Jenkins` `IIS`
+
+**CMS & Platforms**
+`Umbraco` `Kentico` `WordPress`
+
+**Architecture & Engineering**
+`Solution Architecture` `API Design` `Microservices` `SOLID` `Design Patterns` `CI/CD` `Code Review` `Automated Testing`
+
+**AI-Assisted Development**
+`Claude Code` `GitHub Copilot` `AI Coding Agents` `LLM Integration` `AI Orchestration`
+
+---
+
+## 🤝 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/lancelotconcepcion/) · [Professional GitHub](https://github.com/sirlancelotx) · [Personal GitHub](https://github.com/sirlancelooot)
